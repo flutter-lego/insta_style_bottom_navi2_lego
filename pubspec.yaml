@@ -1,7 +1,7 @@
 name: insta_style_bottom_navi2_lego
-description: "lego is all you need"
+description: "Instagram Style Bottom Navigation 2.0 Lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/insta_style_bottom_navi2_lego
 
 version: 1.0.0
 

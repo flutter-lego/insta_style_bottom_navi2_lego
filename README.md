@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/insta_style_bottom_navi2_lego.svg)](https://pub.dartlang.org/packages/insta_style_bottom_navi2_lego)
 
 # insta_style_bottom_navi2_lego
-description here
+Insta style bottom navi2 lego
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -15,6 +15,3 @@ lego create
 ```bash
 lego add insta_style_bottom_navi2_lego
 ```
-
-## Usage
-Usage here
